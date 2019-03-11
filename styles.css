@@ -25,3 +25,26 @@ header {
     background-image: url("windows.jpg");
     background-size: cover;
 }
+.services i{
+    font-size 30px;
+    padding: 25px 20px;
+    color: #fff;
+    background-color: blue;
+    width: 80px;
+    height: 80px;
+    border-radius: 50;    
+}
+.services span{
+    width:200px;
+    display:in-line-block;
+    
+}
+.contact .i {
+    padding: 100px 50px;
+}
+.contact button {
+    width: 100%
+}
+.contact button:hover {
+    background-color: purple;
+}
